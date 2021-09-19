@@ -1,0 +1,1 @@
+NFT Platform for artists, musicians, and their community.
