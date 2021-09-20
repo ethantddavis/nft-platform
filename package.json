@@ -1,0 +1,35 @@
+{
+  "name": "nft-platform",
+  "version": "1.0.0",
+  "description": "NFT Platform for artists, musicians, and their community.",
+  "main": "index.js",
+  "dependencies": {
+    "@babel/core": "^7.15.5",
+    "@babel/preset-env": "^7.15.6",
+    "@truffle/hdwallet-provider": "^1.5.0",
+    "babel-polyfill": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-stage-2": "^6.24.1",
+    "babel-preset-stage-3": "^6.24.1",
+    "babel-register": "^6.26.0",
+    "chai": "^4.3.4",
+    "chai-as-promised": "^7.1.1",
+    "dotenv": "^10.0.0",
+    "es2015": "0.0.0",
+    "truffle-hdwallet-provider-privkey": "^0.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ethantddavis/nft-platform.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ethantddavis/nft-platform/issues"
+  },
+  "homepage": "https://github.com/ethantddavis/nft-platform#readme"
+}
