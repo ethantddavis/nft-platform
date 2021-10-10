@@ -2,7 +2,7 @@
 pragma solidity ^0.8.0;
 
 import "../@openzeppelin/contracts/token/ERC721/ERC721.sol";
-//nft-platform\node_modules\@openzeppelin\contracts\token\ERC721\ERC721.sol
+
 /**
  * @dev NFT to reperesent an artists work
  */
