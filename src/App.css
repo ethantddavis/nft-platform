@@ -7,3 +7,26 @@
   background: gray;
 }
 
+.nft {
+  width: 200px;
+  height: auto;
+  background-color: white;
+  margin: 5px;
+  border: 2px solid black;
+  border-radius: 10px;
+  float: left;
+}
+
+.nft img {
+  display: block;
+  width: 100%;
+  border-radius: 10px;
+}
+
+.nft .text {
+  font-size: 1em;
+  margin-top: 0.1em;
+  margin-bottom: 0.1em;
+  margin-left: 0.5em;
+}
+
